@@ -37,7 +37,11 @@ Fellow students have put together a guide to Windows set-up for the project [her
 
 # Discussion
 
+![1563098074917](assets/1563098074917.png)
+
 The following values for components P, I, and D have been used: `Kp = 0.2 Ki = 0.0001 Kd = 3.0`
+
+As mentioned in the diagram above, 
 
 Proportional term Kp steers harder the further away we are from the desired trajectory. Kp alone causes oscillations which is not desirable property so the additional term is needed - Kd.
 
